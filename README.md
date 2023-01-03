@@ -1,5 +1,5 @@
 # Solution Overview 
-전반적인 개요는 Overview.png에 설명되어 있습니다.
+![overview](https://user-images.githubusercontent.com/96808351/210344840-e5778f01-93cd-4317-98d7-cd98ddd14c93.png)
 
 ## Image data
 Tumor segmentation을 진행한 후, tumor region을 포함하도록 image patch를 sampling
