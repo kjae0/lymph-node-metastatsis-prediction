@@ -1,4 +1,5 @@
 연세대학교 의과대학/JLK/MTS 주최 유방암의 임파선 전이 예측 AI 경진대회 우승 코드입니다.
+https://dacon.io/competitions/official/236011/overview/description
 
 # Solution Overview 
 <img width="2072" alt="overview" src="https://user-images.githubusercontent.com/96808351/210345227-a14bf45c-0a61-444c-a996-f65796688be9.png">
